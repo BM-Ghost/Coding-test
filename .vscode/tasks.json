@@ -7,8 +7,8 @@
             "command": "gcc",
             "args": [
                 "-o",
-                "c:/Users/Meshack Bwire/Desktop/Code/fibonacciSeq.exe",
-                "c:/Users/Meshack Bwire/Desktop/Code/fibonacciSeq.c",
+                "c:/Users/Meshack Bwire/Desktop/Code/Coding-test/fibonacciSeq.exe",
+                "c:/Users/Meshack Bwire/Desktop/Code/Coding-test/fibonacciSeq.c",
             ],
             "group": {
                 "kind": "build",
