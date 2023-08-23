@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Program",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-o",
+                "c:/Users/Meshack Bwire/Desktop/Code/fibonacciSeq.exe",
+                "c:/Users/Meshack Bwire/Desktop/Code/fibonacciSeq.c",
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
